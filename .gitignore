@@ -2,3 +2,9 @@ build
 tags
 tests
 specs
+
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
